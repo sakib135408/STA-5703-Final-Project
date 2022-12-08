@@ -1,0 +1,3 @@
+First, Final Project.ipynb file was used to merge event, vehicle and driver dataframe. Output: event_df.csv, driver_df.csv and vehicle_df.csv
+Then, data_processing.ipynb was used to process the dataset. The output of this file: PROC_driver_crash_data.csv
+Last, models.ipynb was used to apply different classifiers and SHAP values were generated to explain model outputs.
